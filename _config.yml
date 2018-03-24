@@ -32,7 +32,7 @@ reCaptcha:
   secret: "WeLQgaCijPDmHB8bwtopTHOIGqSmg/pw9Rt4RgF899gKhvedDwLnuHXSJL5oPjbajBlKPbuDE4vuj6+1KGrL2a8Cw5DLDo2aHwJzYFmvDbV6i+Ai2tAw8Rx7TKnH7mqvSLa3bWMN5sp53Ryco4XtfnGlNZ+UFLbVFaprSmomsao="
 
 # SEO Related
-google_site_verification :
+google_site_verification : "googleb2b9b276e5df6db8"
 bing_site_verification   :
 yandex_site_verification :
 
@@ -40,9 +40,9 @@ og_image                 : "/images/avatar.png"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : "UA-116307444-1"
 
 github: [metadata]
 
