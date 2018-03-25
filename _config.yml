@@ -1,5 +1,5 @@
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
@@ -16,10 +16,8 @@ comments:
   provider  : "staticman_v2"
 staticman:
   branch    : "master"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          :
 algolia:
   application_id         : "V69YKHIW6J"
@@ -33,8 +31,8 @@ reCaptcha:
 
 # SEO Related
 google_site_verification : "5QxmhsLP5ykccj5VYO0i-7wfZIClo5qqNRazoa4zQtw"
-bing_site_verification   :
-yandex_site_verification :
+bing_site_verification   : "8BDFAB2DE84367AF16B2B681FFFC4F6F"
+yandex_site_verification : "7fe7cc2513e64266"
 
 og_image                 : "/images/avatar.png"
 
