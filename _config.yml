@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Statut's Experience"
+title                    : "statut.github.io"
 title_separator          : "|"
 name                     : "Aliaksei Statut"
 description              : "My notes and developer experience"
